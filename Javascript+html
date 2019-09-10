@@ -1,0 +1,12 @@
+<html>
+<title> Javascript
+</title>
+<body>
+<script language = "javascript">
+document.write("Hello this is program having HTML+javascript functionality")
+</script>
+<noscript>
+<p>
+</noscript>
+</body>
+</html>
